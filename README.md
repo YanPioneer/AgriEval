@@ -43,6 +43,10 @@ The directory structure of the dataset is as follows:
 ![img](https://github.com/YanPioneer/AgriEval/blob/main/image/Example_main_01.png)
 Fig2. Examples for AgriEval.
 
+### 2.5 Test
+
+run ./eval/run_evalate_multi_choice.py
+
 ## 3. Protocol
 
 Community use of the AgriBench model must comply with [Apache 2.0](about:blank) and [“AgriBench Dataset Community License Agreement”](about:blank). The AgriBench Dataset supports academic use; if you plan to use the AgriBench dataset for commercial purposes, you need to submit the required application materials as specified in the “AgriBench Dataset Community License Agreement” through the following contact email [***@***.com](about:blank). Upon approval, you will be granted a non-exclusive, global, non-transferable, non-sublicensable, revocable commercial copyright license.
